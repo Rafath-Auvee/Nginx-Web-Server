@@ -1,4 +1,4 @@
-# Module 3 Assignment — Nginx Web Server with HTTPS, SSL & Reverse Proxy
+# Nginx Web Server with HTTPS, SSL & Reverse Proxy
 
 ## Overview
 
